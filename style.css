@@ -28,6 +28,7 @@ img {background-color: darkviolet;}
 
 body {
     background-color: darkviolet;
+    text-align: center ;
 }
 
 footer {
@@ -37,4 +38,4 @@ footer {
 footer p {
     background-color: peru;
 }
-p {text-size: 20px;}
+p {text-size: 30px;}
