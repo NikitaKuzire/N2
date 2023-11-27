@@ -1,0 +1,40 @@
+nav {
+    padding: 30px;
+    text-decoration: none;
+    border: 1px solid blue;
+    margin: 5px;
+    border-radius: 15px;
+    font-size: 26px;
+}
+nav a {
+      background-color: darkblue;
+      color: black;
+}
+h1 {background-color: blueviolet;}
+
+header {
+    background-color: blueviolet;
+    margin: 20px;
+}
+
+header img {background-color: blueviolet;}
+
+main p {background-color: darkgoldenrod;
+color:wheat }
+
+main h2 {background-color: yellow;}
+
+img {background-color: darkviolet;}
+
+body {
+    background-color: darkviolet;
+}
+
+footer {
+    background-color: orangered;
+}
+
+footer p {
+    background-color: peru;
+}
+p {text-size: 20px;}
