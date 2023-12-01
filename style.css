@@ -1,38 +1,40 @@
 nav {
     padding: 30px;
     text-decoration: none;
-    border: 1px solid blue;
+    border: 1px solid yellow;
     margin: 5px;
     border-radius: 15px;
     font-size: 26px;
 }
 nav a {
-      background-color: darkblue;
-      color: black;
+      background-color: darkslategray;
+      color: slateblue;
 }
-h1 {background-color: blueviolet;}
-
+h1 {background-color: coral;
+text-transform: uppercase;          
+}  
 header {
-    background-color: blueviolet;
+    background-color: black;
     margin: 20px;
+    color: coral;
 }
 
 header img {background-color: blueviolet;}
 
-main p {background-color: darkgoldenrod;
-color:wheat }
+main p {background-color: midnightblue;
+color: black}
 
-main h2 {background-color: yellow;}
+main h2 {background-color: coral;}
 
-img {background-color: darkviolet;}
+img {background-color: midnightblue;}
 
 body {
-    background-color: darkviolet;
+    background-color: black;
     text-align: center ;
 }
 
 footer {
-    background-color: orangered;
+    background-color: moccasin;
 }
 
 footer p {
